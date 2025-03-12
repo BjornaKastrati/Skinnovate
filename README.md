@@ -66,3 +66,9 @@ The Dermatology Clinic Management System is a software application designed to h
 # 📌 Conclusion
 
 The Dermatology Clinic Management System makes patient care easier and more efficient by combining AI-driven diagnostics, remote consultations, and streamlined clinic management. With features like loyalty rewards, secure health records, and teledermatology, it enhances both medical care and patient experience.
+
+# 📌 Contributors
+
+- Armela Ruçi -> https://github.com/ArmelaUmt
+- Bjorna Kastrati -> https://github.com/BjornaKastrati
+- Petro Moni 
