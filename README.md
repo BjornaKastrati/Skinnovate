@@ -71,4 +71,4 @@ The Dermatology Clinic Management System makes patient care easier and more effi
 
 - Armela Ruçi -> https://github.com/ArmelaUmt
 - Bjorna Kastrati -> https://github.com/BjornaKastrati
-- Petro Moni 
+- Petro Moni -> https://github.com/Petro22255
